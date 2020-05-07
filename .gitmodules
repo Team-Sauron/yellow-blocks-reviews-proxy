@@ -1,6 +1,0 @@
-[submodule "info-section"]
-	path = info-section
-	url = https://github.com/Team-Sauron/smego-info-section.git
-[submodule "reviews-section"]
-	path = reviews-section
-	url = https://github.com/Team-Sauron/smego-reviews-service.git
