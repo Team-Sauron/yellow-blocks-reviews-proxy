@@ -1,0 +1,6 @@
+[submodule "proxy/reviews-service"]
+	path = proxy/reviews-service
+	url = https://github.com/Team-Sauron/smego-reviews-service.git
+[submodule "proxy/info-service"]
+	path = proxy/info-service
+	url = https://github.com/Team-Sauron/smego-info-section.git
