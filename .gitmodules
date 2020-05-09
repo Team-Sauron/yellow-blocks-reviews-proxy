@@ -1,12 +1,16 @@
 [submodule "proxy/reviews-service"]
 	path = proxy/reviews-service
 	url = https://github.com/Team-Sauron/smego-reviews-service.git
+	update = merge
 [submodule "proxy/info-service"]
 	path = proxy/info-service
 	url = https://github.com/Team-Sauron/smego-info-section.git
+	update = merge
 [submodule "proxy/carousel-service"]
 	path = proxy/carousel-service
 	url = https://github.com/Team-Sauron/Smego-carousel-service.git
+	update = merge
 [submodule "proxy/accordion-service"]
 	path = proxy/accordion-service
 	url = https://github.com/Team-Sauron/smego-accordion.git
+	update = merge
