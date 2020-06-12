@@ -19,6 +19,12 @@
 
 > This app contains unique pages from /1 to /10000000. Feel free to check out any pages between then.  
 
+> To start up a local server:
+
+```sh
+npm start
+```
+
 ## Requirements
 
 - Node 6.13.0
