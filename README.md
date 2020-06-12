@@ -1,6 +1,6 @@
-## Project Smego
+## Yellow Blocks
 
->Reviews for Project Smego
+> Yellow Blocks is a customer reviews module for an eCommerce website
 
 ## Related Projects
 
@@ -17,14 +17,11 @@
 
 ## Usage
 
-> Some usage instructions
+> This app contains unique pages from /1 to /10000000. Feel free to check out any pages between then.  
 
 ## Requirements
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
 - Node 6.13.0
-- etc
 
 ## Development
 
@@ -33,6 +30,5 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 From within the root directory:
 
 ```sh
-npm install -g webpack
 npm install
 ```
