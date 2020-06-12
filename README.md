@@ -1,6 +1,6 @@
 ## Yellow Blocks
 
-> Yellow Blocks is a customer reviews module for an eCommerce website
+> Yellow Blocks is an eCommerce website displaying various shops and products information.
 
 ## Related Projects
 
